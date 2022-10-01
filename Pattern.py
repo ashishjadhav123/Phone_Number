@@ -1,4 +1,4 @@
-rows = 6
+rows = 8
 
 stop = int(rows / 2 + 1)
 itr = 1
